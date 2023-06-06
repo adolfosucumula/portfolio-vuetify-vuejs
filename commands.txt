@@ -1,0 +1,13 @@
+config git email and username: git config --global user.email ""
+git config --global user.name ""
+
+project created in vue 3
+npm install vuetify
+npm install vuetify@next
+or vue add vuetify
+npm install vuex
+npm install vue-router@4
+npm install axios
+npm install matefial-design-icons-iconfont -D
+or npm install material-design-icons-iconfont --save
+npm install @fortawesome/fontawesome-free --save
