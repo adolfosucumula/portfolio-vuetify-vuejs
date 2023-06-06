@@ -67,11 +67,10 @@
               </p>
               <br />
               <p class="text-grey">
-                I have experience working with Java, JavaScript, PHP,
-                 Python and C languages, and with frameworks like 
-                 Spring Boot, Laravel, VueJs, a little with NodeJs and
-                ReactJs, so I can also consider myself a Front-end 
-                developer.
+                I have experience gained through working with Java, 
+                JavaScript, PHP, Python and C languages, and with frameworks 
+                such as Spring Boot, Laravel, VueJs, a little with NodeJs and
+                 ReactJs, so I can also consider myself a Front-end developer.
               </p>
               <br>
               <p class="text-grey">
@@ -214,11 +213,10 @@
                 <v-card-title> We provide you the best </v-card-title>
 
                 <v-card-subtitle>
-                  By AAE IdeaPro | 06 Sep 2022
+                  By iLed | 06 Jun 2022
                 </v-card-subtitle>
                 <v-card-text>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
-                  rem saepe sapiente deleniti, odio non laborum fuga.
+                 
                 </v-card-text>
               </v-card>
             </v-col>
@@ -231,9 +229,7 @@
             <v-col cols="12" sm="8">
               <h1 class="mt-9">Hire me for your awesome project</h1>
               <p class="text-grey">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
-                itaque, eaque molestiae deleniti, earum voluptate eos id dicta
-                at, blanditiis
+               
               </p>
             </v-col>
             <v-col cols="12" sm="4">
@@ -252,9 +248,10 @@
                 color=""
                 class="mt-10"
                 variant="outlined"
-              ></v-btn
-              ><br />
-              <span class="text-caption">Your Street SYO,yourArea Dream </span
+              ></v-btn>
+              <!-- my location https://goo.gl/maps/Qkm7kNJV1vRPC5wGA -->
+              <br />
+              <span class="text-caption">Rua do Breiner 401, 4050-127 Porto, Portugal </span
               ><br />
               <v-btn
                 icon="fas fa-phone-alt"
@@ -263,8 +260,8 @@
                 variant="outlined"
               ></v-btn
               ><br />
-              <span class="text-caption">00235 - 6521 </span> <br />
-              <span class="text-caption">00235 - 6521 </span> <br />
+              <span class="text-caption">+351 933443506 </span> <br />
+              <span class="text-caption">+244 939000287 </span> <br />
               <v-btn
                 icon="fas fa-envelope"
                 color=""
@@ -272,18 +269,15 @@
                 variant="outlined"
               ></v-btn
               ><br />
-              <span class="text-caption">aaeideapro@gmail.com </span> <br />
-              <span class="text-caption">aaeideapro@gmail.com </span> <br />
+              <span class="text-caption">rocketmc2009@gmail.com </span> <br />
+              <span class="text-caption">rocketmc2009@icloud.com </span> <br />
             </div>
           </v-col>
           <v-col cols="12" sm="8">
             <h1 class="mt-8">Send your message</h1>
             <v-divider></v-divider>
             <span class="text-caption"
-              >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt
-              fugiat officia, odio eaque exercitationem libero nesciunt placeat,
-              repellat obcaecati sed tenetur! Est labore aliquam amet
-              consequatur necessitatibus fugit obcaecati facilis!</span
+              ></span
             >
             <v-row class="mt-10">
               <v-col cols="12" sm="6">
@@ -358,6 +352,7 @@ export default defineComponent({
 });
 </script>
 <style scoped>
+p{ text-align: justify;}
 .v-container {
   padding: 16px 0 16px 0;
 }
