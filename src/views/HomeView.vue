@@ -35,7 +35,7 @@
           </v-col>
           <v-col cols="5">
             <div style="position: relative; z-index: 9999" class="mt-16">
-              <v-img src="i1.png" contain max-height="300"></v-img>
+              <v-img src="laurindo-cut.png" contain max-height="300"></v-img>
             </div>
           </v-col>
         </v-row>
@@ -45,7 +45,7 @@
           <v-row>
             <v-col cols="12" sm="6">
               <div class="egg">
-                <v-img src="i2.png" max-height="300" class=""></v-img>
+                <v-img src="lau-cut-06.png" max-height="350" class=""></v-img>
               </div>
             </v-col>
             <v-col cols="12" sm="6">
@@ -80,7 +80,7 @@
               </p>
               <br>
               <p class="text-grey">To learn more contact me and read my CV through the link below</p>
-              <v-btn tile dark color="yellow" class="mt-4">
+              <v-btn href="https://docs.google.com/document/d/1TKTMiXabe2XU42O06K02boOQpIWcMgrH/edit?usp=drive_link&ouid=105852822891661024469&rtpof=true&sd=true" target="_blank" tile dark color="yellow" class="mt-4">
                 Download Resume
               </v-btn>
             </v-col>
@@ -186,8 +186,7 @@
                   By AAE IdeaPro | 06 Sep 2022
                 </v-card-subtitle>
                 <v-card-text>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
-                  rem saepe sapiente deleniti, odio non laborum fuga.
+                  Lorem ipsum dolor sit amet consectetur.
                 </v-card-text>
               </v-card>
             </v-col>
@@ -201,8 +200,7 @@
                   By AAE IdeaPro | 06 Sep 2022
                 </v-card-subtitle>
                 <v-card-text>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
-                  rem saepe sapiente deleniti, odio non laborum fuga.
+                  Lorem ipsum dolor sit amet consectetur adipisicing.
                 </v-card-text>
               </v-card>
             </v-col>

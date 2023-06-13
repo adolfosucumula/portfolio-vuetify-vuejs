@@ -1,5 +1,5 @@
 <template>
-    <v-app-bar app color="black" dark flat class="px-12" >
+    <v-app-bar app color="black " :elevation="2" dark flat class="px-12" >
       <v-btn >
         <v-icon color="yellow" left class="mr-2 fas fa-signature">fas fa-signature</v-icon> iLED
       </v-btn>
